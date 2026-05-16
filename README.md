@@ -1,1 +1,1 @@
-# valuating-Regression-and-Classifier-Metrics-Iris-Dataset
+# Evaluating-Regression-and-Classifier-Metrics-Iris-Dataset
